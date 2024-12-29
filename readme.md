@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm <a href="https://www.linkedin.com/in/anas-ahmed-shaikh">Anas Ahmed Shaikh</a></h1>
 
 <h3>About me,</h3>
-<p>I am a <strong>young, passionate developer</strong> working with modern tools like <strong>React, Next.js, Typescript, Tailwind CSS,</strong> and experimenting with features like <strong>AI chatbots</strong>. My expertise holds on to create pixel perfect websites. As of now, I'm focused on to become a expert as a frontend developer and beginner in designing websites.✨</p>
+<p>I am a <strong>young, passionate developer</strong> working with modern tools like <strong>React, Next.js, Typescript, Tailwind CSS,</strong> and experimenting with features like <strong>AI chatbots</strong>. My expertise holds on to create pixel perfect websites. As of now, I'm focused on to become a expert as a backend developer and beginner in designing websites.✨</p>
 
 <h3>I love to collaborate on any project especially open source projects.</h3>
  <div id="badges">
