@@ -20,7 +20,7 @@
    
 # 📊 GitHub Stats:
 <a href="https://gitroll.io/profile/unPyyJCF52LSEpb9UbytlFFswhMz1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unPyyJCF52LSEpb9UbytlFFswhMz1?theme=light" alt="GitRoll Profile Badge" width="345px"/></a>
-![](https://github-readme-stats.vercel.app/api?username=anasahmed07&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anasahmed07&theme=default&hide_border=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasahmed07&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h3>Visitor Count</h3>
