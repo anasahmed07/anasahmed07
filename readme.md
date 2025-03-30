@@ -6,7 +6,7 @@
 <h3>I love to collaborate on any project especially open source projects.</h3>
  <div id="badges">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
