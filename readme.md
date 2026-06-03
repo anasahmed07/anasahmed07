@@ -6,10 +6,8 @@
 <h3>I love to collaborate on any project especially open source projects.</h3>
 <h3>Projects / What I'm building</h3>
 <ul>
-  <li><strong>DataX</strong> — Salesforce data-migration pre-load validation engine that catches data issues before ETL loads (Python + Pandas).</li>
-  <li><strong>Quinn</strong> — WhatsApp commerce operating system for e-commerce merchants, focused on AI-driven conversational order flows.</li>
-  <li><strong>DigitEMB</strong> — Lead-intelligence and email-automation platform for large-scale lead management with AI-generated outreach.</li>
   <li><strong>OneAI Hackathon 2025</strong> — 🏆 1st place with Team Marktecs.</li>
+  <li><strong>AIMustaqbil Hackathon</strong> — 🥈 2nd place.</li>
 </ul>
 <p><em>Project descriptions are intentionally high-level and limited to public-safe details.</em></p>
  <div id="badges">
