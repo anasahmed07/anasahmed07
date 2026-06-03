@@ -9,7 +9,6 @@
   <li><strong>OneAI Hackathon 2025</strong> — 🏆 1st place with Team Marktecs.</li>
   <li><strong>AIMustaqbil Hackathon</strong> — 🥈 2nd place.</li>
 </ul>
-<p><em>Project descriptions are intentionally high-level and limited to public-safe details.</em></p>
  <div id="badges">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
